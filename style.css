@@ -1,0 +1,144 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #14120b;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+.navbar {
+  position: sticky;
+  top: 0;
+  background: #14120b;
+  z-index: 1000;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 95%;
+    margin: 10px auto;
+    font-size: 15px;
+    cursor: pointer;
+}
+.icon{
+    margin-left: 36px;
+
+    display: inline;
+    
+}
+
+nav div a{
+    color: #edecec;
+    padding: 5.6px 15px;
+    text-decoration: none;
+    margin: 5px;
+
+}
+nav div button{
+    padding: 5.6px 10.5px 5.85px;
+    border-radius: 600px;
+    font-size: 14px;
+    cursor: pointer;
+    
+}
+.btn{
+    margin-right: 50px;
+
+}
+.sign{
+    color: #edecec;
+    background:#14120b;
+    
+}
+.download{
+    outline: none;
+    border: none;
+    
+}
+
+main div{
+    font-size: 30px;
+    color: #edecec;
+    margin: 0px 0px 22.4px;
+
+}
+.content{
+    margin-top: 150px;
+    margin-left: 75px;
+}
+
+main div button{
+    padding: 12.48px 21.6px 12.8px;
+    border-radius: 600px;
+    font-size: 16px;
+    cursor: pointer;
+    outline: none;
+    border: none;
+}
+.downloadbtn{
+    margin-left: 75px;
+    
+}
+
+
+
+
+
+.image_1{
+    position: relative;
+}
+.backgroundimage{
+    margin-left: 75px;
+    margin-right: 75px;
+    border-radius: 10px;
+    margin-top: 80px;
+    display: block;
+
+}
+.mainimage{
+    position: absolute;
+    top: 50px;
+    left: 175px;
+    z-index: 2;
+}
+
+.footpara{
+    color: #edecec;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.allcards{
+    
+    display: flex;
+    justify-content: space-between;
+    color: #edecec;
+    margin-left: 75px;
+    margin-right: 75px;
+    margin-top: 30px;
+    margin-bottom: 100px;
+    
+}
+.card{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #2f2f2e;
+    width: 150px;
+    height: 100px;
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+
