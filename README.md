@@ -38,9 +38,9 @@ The goal was to recreate the overall layout, visual structure, and styling of th
 
 ```css
 font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-
+```
 ## 🖼️ Screenshots
 
 <img width="700" alt="Cursor Main Page" src="https://github.com/user-attachments/assets/c092226b-ef7e-445d-a87d-8bbed91a450d" />
 <img width="700" alt="Cursor Secondary Page" src="https://github.com/user-attachments/assets/c76f9856-4693-48d0-b4b5-ed4db14fa674" />
-```
+
