@@ -41,9 +41,15 @@ The project uses **system sans-serif fonts** for simplicity and performance.
 ```css
 font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 
+⬆️ That last ``` **closes the code block**
+
+---
+
+## ✅ AFTER FIX — Screenshots WILL RENDER
+
+Keep your screenshots **exactly like this** (they are correct):
+
 ```md
-
-
 ## 🖼️ Screenshots
 
 ### Main Page
@@ -51,4 +57,3 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 
 ### Secondary Page
 <img width="700" alt="Cursor Secondary Page" src="https://github.com/user-attachments/assets/c76f9856-4693-48d0-b4b5-ed4db14fa674" />
-
