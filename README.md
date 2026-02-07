@@ -41,12 +41,7 @@ The project uses **system sans-serif fonts** for simplicity and performance.
 ```css
 font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 
-<img width="1470" height="880" alt="c" src="https://github.com/user-attachments/assets/a1fef539-4e28-4856-b018-3464f3801d68" />
+<img width="1470" height="880" alt="c" src="https://github.com/user-attachments/assets/c092226b-ef7e-445d-a87d-8bbed91a450d" />
 
-## Screenshots
+<img width="1470" height="880" alt="c 2" src="https://github.com/user-attachments/assets/c76f9856-4693-48d0-b4b5-ed4db14fa674" />
 
-### Main Page
-![Main Page](Cursor/c.png)
-
-### Banner Section
-![Banner](Cursor/c 2.png)
